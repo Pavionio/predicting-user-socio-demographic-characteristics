@@ -1,1 +1,4 @@
-# predicting-user-socio-demographic-characteristics
+# Предсказание социально-
+демографических
+характеристик
+пользователя
